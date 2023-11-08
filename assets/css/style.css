@@ -1,0 +1,43 @@
+body {
+    width: 99vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(15, 14, 22, 0.925);
+}
+h1{
+    color: white;    
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+hr{
+    height: 3px;
+    width: 90%;
+    background-color: rgb(3, 43, 43);
+}
+.seccionselectororigen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.seccionmoneda{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    margin-top: 20px;
+    background-color: rgb(101, 206, 255);
+    color: white;
+}
+
+#resultado p{
+    color: white;
+    text-align: center;
+}
